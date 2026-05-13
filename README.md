@@ -9,7 +9,7 @@
 ---
 
 ## 01.02 PL Método de búsqueda binaria
-![Descripción de la captura](assets/02-captura-ejemplo.png)
+![Descripción de la captura](src\assets\image.png)
 
 **Fecha:** 13/05/2026
 
